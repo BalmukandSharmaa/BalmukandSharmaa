@@ -41,9 +41,10 @@ Currently upskilling in backend technologies to become a **Full Stack Developer*
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BalmukandSharmaa&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalmukandSharmaa&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BalmukandSharmaa&show_icons=true&theme=tokyonight&cache_seconds=86400" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalmukandSharmaa&layout=compact&theme=tokyonight&cache_seconds=86400" height="180"/>
 </p>
+
 
 ---
 
