@@ -41,8 +41,8 @@ Currently upskilling in backend technologies to become a **Full Stack Developer*
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharma5231&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharma5231&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BalmukandSharmaa&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalmukandSharmaa&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -54,7 +54,7 @@ Currently upskilling in backend technologies to become a **Full Stack Developer*
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/sharma5231">
+  <a href="https://github.com/BalmukandSharmaa">
     <img src="https://img.icons8.com/material-outlined/48/ffffff/github.png" height="40"/>
   </a>
   &nbsp;&nbsp;
