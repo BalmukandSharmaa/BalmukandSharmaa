@@ -1,8 +1,8 @@
-# 👋 Hey there, I'm Balmukand Sharma! 🎯  
+# 👋 Hey there, I'm **Balmukand Sharma**! 🎯  
 
 ### **Frontend Developer | Java Programmer | DSA Explorer**
 
-I'm a tech enthusiast who loves building interactive web apps and solving coding problems.  
+I’m a tech enthusiast who loves building interactive web applications and solving coding problems.  
 Currently upskilling in backend technologies to become a **Full Stack Developer** 🚀
 
 ---
@@ -34,17 +34,16 @@ Currently upskilling in backend technologies to become a **Full Stack Developer*
 
 - 🔥 Learning **Spring Boot** for backend development  
 - 🧠 Practicing **DSA daily** on [LeetCode](https://leetcode.com/)  
-- ⚛️ Building & Hosting new **React Projects**
+- ⚛️ Building and hosting new **React projects**
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=BalmukandSharmaa&show_icons=true&theme=tokyonight&cache_seconds=86400&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BalmukandSharmaa&show_icons=true&theme=tokyonight&cache_seconds=86400&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalmukandSharmaa&layout=compact&theme=tokyonight&cache_seconds=86400" height="180"/>
 </p>
-
 
 ---
 
@@ -70,4 +69,4 @@ Currently upskilling in backend technologies to become a **Full Stack Developer*
 
 ---
 
-> _“Consistency beats talent when talent doesn't work consistently.”_ 🚀
+> _“Consistency beats talent when talent doesn’t work hard.”_ 🚀
