@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm **Balmukand Sharma**! 🎯  
 
-### **Frontend Developer | Java Programmer | DSA Explorer**
+### **Full Stack Developer | CPP Programmer | DSA Explorer**
 
 I’m a tech enthusiast who loves building interactive web applications and solving coding problems.  
 Currently upskilling in backend technologies to become a **Full Stack Developer** 🚀
