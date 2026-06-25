@@ -1,76 +1,220 @@
-# 👋 Hey there, I'm **Balmukand Sharma**! 🎯  
+<div align="center">
 
-### **Full Stack Developer | CPP Programmer | DSA Explorer**
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Balmukand%20Sharma&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DSA%20Explorer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18"/>
 
-I’m a tech enthusiast who loves building interactive web applications and solving coding problems.  
-Currently upskilling in backend technologies to become a **Full Stack Developer** 🚀
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Balmukand+%F0%9F%91%8B;Full+Stack+Developer+in+the+Making+%F0%9F%9A%80;DSA+%7C+Algorithms+%7C+Problem+Solver+%F0%9F%A7%A0;Building+Clean+%26+Scalable+Web+Apps+%F0%9F%92%BB;Learning+Spring+Boot+%F0%9F%8C%B1;Open+to+Internships+%26+Opportunities+%F0%9F%8E%AF" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=BalmukandSharmaa&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://github.com/BalmukandSharmaa?tab=followers">
+    <img src="https://img.shields.io/github/followers/BalmukandSharmaa?label=Followers&style=for-the-badge&color=6AD3F7&labelColor=0d1117" alt="Followers"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20To-Opportunities-brightgreen?style=for-the-badge&logo=handshake&logoColor=white"/>
+</p>
+
+</div>
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🧑‍💻 About Me
 
-<h2>💻 My Skill Set</h2>
+```yaml
+name        : Balmukand Sharma
+title       : Full Stack Developer (in progress 🚀)
+location    : India 🇮🇳
+education   : Computer Science & Engineering
+focus       : [ Web Dev, DSA, System Design ]
+currently   :
+  - Learning  → Spring Boot & REST APIs
+  - Practicing → DSA daily on LeetCode ⚡
+  - Building  → Full Stack React Projects
+looking_for : Internships · Open Source Contributions · Collaborations
+philosophy  : "Consistency beats talent when talent doesn't work hard."
+```
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💫 Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🗄️ Backend & Databases
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 🔥 What I'm Building
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <strong>💫 Languages</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=java,c,cpp,python" height="45" />
+    <td width="50%">
+      <h3 align="center">🌐 Full Stack Projects</h3>
+      <p align="center">Building dynamic, responsive web applications using React + Spring Boot with clean REST APIs and MySQL backends.</p>
     </td>
-    <td align="center" width="33%">
-      <strong>🎨 Frontend</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" height="45" />
+    <td width="50%">
+      <h3 align="center">🧠 DSA Practice</h3>
+      <p align="center">Solving algorithmic problems daily — Arrays, Trees, Graphs, DP, and more. Targeting top tech companies.</p>
     </td>
-    <td align="center" width="33%">
-      <strong>🗄️ Backend & Database</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=mysql,php" height="45" />
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚙️ Backend Mastery</h3>
+      <p align="center">Deep-diving into Spring Boot, REST architecture, JPA, and building production-grade backend systems.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📦 Open Source</h3>
+      <p align="center">Actively looking to contribute to meaningful open source projects and collaborate with developers globally.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 💼 Currently Working On
+## 🏆 Competitive Programming
 
-- 🔥 Learning **Spring Boot** for backend development  
-- 🧠 Practicing **DSA daily** on [LeetCode](https://leetcode.com/)  
-- ⚛️ Building and hosting new **React projects**
+<div align="center">
 
----
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/)
 
-## 📈 GitHub Stats
+**Consistently solving problems across Arrays · Strings · Trees · Graphs · Dynamic Programming**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BalmukandSharmaa&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=BalmukandSharmaa&theme=tokyonight&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalmukandSharmaa&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
+</div>
 
 ---
 
-## 📬 Connect With Me
+## 📊 GitHub Analytics
 
-<p align="center">
-  <a href="mailto:balmukands95@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/BalmukandSharmaa">
-    <img src="https://img.icons8.com/material-outlined/48/ffffff/github.png" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/balmukand-sharma">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="#">
-    <img src="https://img.icons8.com/fluency/48/000000/internet.png" height="40"/>
-  </a>
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BalmukandSharmaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=BalmukandSharmaa&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalmukandSharmaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+<!-- Activity Graph -->
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=BalmukandSharmaa&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
 
 ---
 
-> _“Consistency beats talent when talent doesn’t work hard.”_ 🚀
+## 🏅 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BalmukandSharmaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
+
+---
+
+## 📈 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BalmukandSharmaa/BalmukandSharmaa/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BalmukandSharmaa/BalmukandSharmaa/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/BalmukandSharmaa/BalmukandSharmaa/output/github-snake.svg" />
+  </picture>
+</div>
+
+> **Note:** To activate the snake animation, add a GitHub Action to your repo. See the setup instructions below.
+
+---
+
+## 🎯 2025 Goals
+
+- [x] 🌐 Build & deploy multiple React projects  
+- [x] 💡 Strengthen DSA foundations  
+- [ ] 🌱 Master Spring Boot & REST APIs  
+- [ ] 🗃️ Learn Docker & basic DevOps  
+- [ ] 🤝 Land a Software Developer Internship  
+- [ ] 🌍 Contribute to 3+ Open Source Projects  
+- [ ] 📜 Earn Java / Cloud certification  
+
+---
+
+## 💡 Dev Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:balmukands95@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/balmukand-sharma">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/BalmukandSharmaa">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
+</a>
+
+<br/><br/>
+
+**💬 Open to internships, collaborations & full-time opportunities!**  
+**📩 Drop me a message — let's build something great together.**
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
